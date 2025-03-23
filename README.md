@@ -1,6 +1,10 @@
 # 貨幣匯率查詢應用程式
 這個專案是一個基於 Python 與 Flask 的 Web 應用程式，利用 [台灣銀行匯率網站](https://rate.bot.com.tw/xrt?Lang=zh-TW) 的資料，自動抓取並展示最新的現金賣出匯率。應用程式支援中文與英文輸入貨幣名稱，讓你輕鬆查詢所需的匯率資訊。
 
+<p align="center">
+  <img src="https://github.com/EVANLIN2001/Exchange-Rates-Bank-of-Taiwan/blob/main/images/%E6%88%AA%E5%9C%96%202025-03-23%20%E4%B8%8B%E5%8D%887.04.29.png?raw=true" alt="畫面截圖" width="600">
+</p>
+
 ## 功能特色
 - **自動資料抓取**  
   使用 Requests 與 PyQuery 從台灣銀行獲取最新匯率資料。
