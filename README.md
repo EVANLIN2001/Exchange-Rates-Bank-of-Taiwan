@@ -15,5 +15,5 @@
 - **後端**：Python, Flask  
 - **資料抓取**：Requests, PyQuery  
 - **前端**：HTML, CSS, Bootstrap
-- 
+  
 ## 此專案結構簡單，適合初學者參考與學習網頁爬蟲、資料解析以及 Web 應用程式開發。
